@@ -155,16 +155,11 @@ Make sure you have the following installed (Colab includes most by default):
 
 ## 📈 **Future Improvements**
 
-* Integration of evaluation metrics (BLEU, CodeBLEU, Pass@k)
+* Integration of evaluation metrics (F1, CodeBLEU, Pass@1)
 * Aggregated performance dashboards
 * Automated visual report generation
 
----
 
-## 🧑‍💻 **Author**
 
-Developed and maintained by **[Your Name]**
-
-For research, analysis, and benchmarking of advanced LLM performance.
 
 
