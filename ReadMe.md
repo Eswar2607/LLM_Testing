@@ -87,7 +87,7 @@ Follow the instructions below for each dataset folder.
 2. Create **three API tokens**:
 
    * From **OpenRouter**, **OpenAI**, and **Hugging Face**.
-   * **[Hugging Face]([https://platform.openai.com/](https://huggingface.co/))**
+   * **[Hugging Face](https://huggingface.co/)**
 3. Add your API keys in the first cell.
 4. Optionally adjust the **"Number of Rows to Test"** (default = 15).
 5. Run all cells.
@@ -166,4 +166,5 @@ Make sure you have the following installed (Colab includes most by default):
 Developed and maintained by **[Your Name]**
 
 For research, analysis, and benchmarking of advanced LLM performance.
+
 
