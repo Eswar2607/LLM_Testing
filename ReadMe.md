@@ -64,7 +64,7 @@ Follow the instructions below for each dataset folder.
 1. Download or clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Eswar2607/LLM_Testing
    ```
 2. Open the `Human_eval` folder.
 3. Create **two API tokens**:
@@ -163,4 +163,5 @@ Make sure you have the following installed (Colab includes most by default):
 ## 🧑‍💻 **Author**
 
 Developed and maintained by **[Your Name]**
+
 For research, analysis, and benchmarking of advanced LLM performance.
